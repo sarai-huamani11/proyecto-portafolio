@@ -1,0 +1,17 @@
+// configuracion de nombre y correo
+git config --global user.name "selem"
+git config --global user.mail  saraiselemhuamanihuamani.09@gmail.com
+//para verificar que se configuro de mNERA CORRECTA 
+git config --list
+//para hacer de nuestro proyecto  el proyecto pprincipal de git
+//primero creamos un archivo llamado README.md
+//touch README.md // comando para crear archivo 
+//readme es para describir  sobre que trata mi proyecto 
+realizar un portafolio experiencia laborar 
+
+code README.md
+TAREA AVERIGUAR MARK DOWN permite añadir iagen titulo
+github
+// inicializar el proyecto en git 
+git init
+// git branch - M main
